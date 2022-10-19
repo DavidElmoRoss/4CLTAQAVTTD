@@ -2,8 +2,8 @@
 Uncomment ONLY 1 printf at a time for OPTION 1, OPTION 2, 
  OPTION 3 and OPTION 4 (Do NOT ALTER any other lines) to determine
 which one will print the message HELLO WORLD
-centred on the TOP line of the screen in GREEN
- letters
+centred on the TOP line of the screen in letter on a GREEN
+ background
 Then select which OPTION 1-4  that did this for this question on LAB Test1
 */
 
